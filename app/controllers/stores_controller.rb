@@ -4,9 +4,9 @@ class StoresController < ApplicationController
   # GET /rails
   # GET /rails.json
   def index
-    @stores = Store.all
+   # @stores = Store.all
 
-    render json:  @stores
+    #render json:  @stores
   end
   def getbizzle
   	locFactory = RGeo::ActiveRecord::SpatialFactoryStore.instance.factory(:geo_type => 'point')

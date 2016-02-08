@@ -29,8 +29,7 @@ development:
   password: <%= ENV['RDS_PASSWORD'] %>
   host: <%= ENV['API_ENDPOINT'] %>
   postgis_extension: postgis   
-
-  # port: 5432
+  port: 5432
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -91,4 +90,5 @@ production:
   username:  <%= ENV['MY_USERNAME'] %>
   password: <%= ENV['RDS_PASSWORD'] %>
   host: <%= ENV['API_ENDPOINT'] %>
-  postgis_extension: postgis   
+  postgis_extension: postgis
+  port: 5432   
