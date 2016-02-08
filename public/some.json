@@ -1,0 +1,391 @@
+[{
+	"em": "example1@gmail.com",
+	"ad": "1562 North Wells Street, Chicago",
+	"mongo": "56b425d7de88fc99d6aa508b",
+	"coord": [41.9110107, -87.63492180000001]
+}, {
+	"em": "example6@gmail.com",
+	"ad": "1608 North Wells Street, Chicago",
+	"mongo": "56b425d7de88fc99d6aa508e",
+	"coord": [41.9114394, -87.6349599]
+}, {
+	"em": "example13@gmail.com",
+	"ad": "1548 North Wells Street, Chicago",
+	"mongo": "56b425d8de88fc99d6aa5095",
+	"coord": [41.9105357, -87.63487769999999]
+}, {
+	"em": "example34@gmail.com",
+	"ad": "1548 North Wells Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa50aa",
+	"coord": [41.9105357, -87.63487769999999]
+}, {
+	"em": "example43@gmail.com",
+	"ad": "1608 North Wells Street, Chicago",
+	"mongo": "56b425e4de88fc99d6aa50b2",
+	"coord": [41.9114394, -87.6349599]
+}, {
+	"em": "example45@gmail.com",
+	"ad": "1563 North Wells Street, Chicago",
+	"mongo": "56b425e4de88fc99d6aa50b4",
+	"coord": [41.91098530000001, -87.6345316]
+}, {
+	"em": "example47@gmail.com",
+	"ad": "1562 North Wells Street, Chicago",
+	"mongo": "56b425e4de88fc99d6aa50b6",
+	"coord": [41.9110107, -87.63492180000001]
+}, {
+	"em": "example56@gmail.com",
+	"ad": "1548 North Wells Street, Chicago",
+	"mongo": "56b425e5de88fc99d6aa50bf",
+	"coord": [41.9105357, -87.63487769999999]
+}, {
+	"em": "example57@gmail.com",
+	"ad": "129 West North Avenue, Chicago",
+	"mongo": "56b425e5de88fc99d6aa50c0",
+	"coord": [41.9110314, -87.63281119999999]
+}, {
+	"em": "example71@gmail.com",
+	"ad": "2400 North Lincoln Avenue, Chicago",
+	"mongo": "56b425eade88fc99d6aa50c5",
+	"coord": [41.9255844, -87.6492467]
+}, {
+	"em": "example74@gmail.com",
+	"ad": "2408 North Lincoln Avenue, Chicago",
+	"mongo": "56b425eade88fc99d6aa50c8",
+	"coord": [41.9256651, -87.64941329999999]
+}, {
+	"em": "example76@gmail.com",
+	"ad": "2410 North Lincoln Avenue, Chicago",
+	"mongo": "56b425eade88fc99d6aa50ca",
+	"coord": [41.9257151, -87.649435]
+}, {
+	"em": "example83@gmail.com",
+	"ad": "2428 North Lincoln Avenue, Chicago",
+	"mongo": "56b425ebde88fc99d6aa50d1",
+	"coord": [41.92599099999999, -87.6499429]
+}, {
+	"em": "example87@gmail.com",
+	"ad": "2436 North Lincoln Avenue, Chicago",
+	"mongo": "56b425ebde88fc99d6aa50d5",
+	"coord": [41.9261134, -87.6502067]
+}, {
+	"em": "examplepp@gmail.com",
+	"ad": "855 East 150 South, Rensselaer",
+	"mongo": "56b557e6e4b0bd97d36f8271",
+	"coord": [40.99276800000001, -87.029889]
+}, {
+	"em": "example2@gmail.com",
+	"ad": "210 West North Avenue, Chicago",
+	"mongo": "56b425d7de88fc99d6aa508c",
+	"coord": [41.9113313, -87.6349255]
+}, {
+	"em": "example3@gmail.com",
+	"ad": "1559 North Wells Street, Chicago",
+	"mongo": "56b425d7de88fc99d6aa508d",
+	"coord": [41.910863, -87.634332]
+}, {
+	"em": "example7@gmail.com",
+	"ad": "1552 North Wells Street, Chicago",
+	"mongo": "56b425d7de88fc99d6aa508f",
+	"coord": [41.910668, -87.6348783]
+}, {
+	"em": "example8@gmail.com",
+	"ad": "1555 North Wells Street, Chicago",
+	"mongo": "56b425d7de88fc99d6aa5090",
+	"coord": [41.910699, -87.6344012]
+}, {
+	"em": "example9@gmail.com",
+	"ad": "1550 North Wells Street, Chicago",
+	"mongo": "56b425d8de88fc99d6aa5091",
+	"coord": [41.9106093, -87.6348845]
+}, {
+	"em": "example10@gmail.com",
+	"ad": "1551 North Wells Street, Chicago",
+	"mongo": "56b425d8de88fc99d6aa5092",
+	"coord": [41.91065109999999, -87.63438149999999]
+}, {
+	"em": "example11@gmail.com",
+	"ad": "1549 North Wells Street, Chicago",
+	"mongo": "56b425d8de88fc99d6aa5093",
+	"coord": [41.91059399999999, -87.634427]
+}, {
+	"em": "example12@gmail.com",
+	"ad": "1615 North Wells Street, Chicago",
+	"mongo": "56b425d8de88fc99d6aa5094",
+	"coord": [41.9115937, -87.6344575]
+}, {
+	"em": "example14@gmail.com",
+	"ad": "1617 North Wells Street, Chicago",
+	"mongo": "56b425d8de88fc99d6aa5096",
+	"coord": [41.91166, -87.63451649999999]
+}, {
+	"em": "example15@gmail.com",
+	"ad": "1547 North Wells Street, Chicago",
+	"mongo": "56b425d8de88fc99d6aa5097",
+	"coord": [41.9105187, -87.63439389999999]
+}, {
+	"em": "example16@gmail.com",
+	"ad": "230 West North Avenue, Chicago",
+	"mongo": "56b425d8de88fc99d6aa5098",
+	"coord": [41.9113281, -87.6354748]
+}, {
+	"em": "example17@gmail.com",
+	"ad": "219 West North Avenue, Chicago",
+	"mongo": "56b425d8de88fc99d6aa5099",
+	"coord": [41.91098179999999, -87.63557259999999]
+}, {
+	"em": "example18@gmail.com",
+	"ad": "230 West North Avenue, Chicago",
+	"mongo": "56b425d8de88fc99d6aa509a",
+	"coord": [41.911504, -87.63537219999999]
+}, {
+	"em": "example19@gmail.com",
+	"ad": "1545 North Wells Street, Chicago",
+	"mongo": "56b425d8de88fc99d6aa509b",
+	"coord": [41.9104625, -87.6343875]
+}, {
+	"em": "example20@gmail.com",
+	"ad": "1448 North Wells Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa509c",
+	"coord": [41.9091495, -87.6349493]
+}, {
+	"em": "example21@gmail.com",
+	"ad": "1446 North Wells Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa509d",
+	"coord": [41.9090072, -87.63501260000001]
+}, {
+	"em": "example22@gmail.com",
+	"ad": "1510 North Wells Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa509e",
+	"coord": [41.90951099999999, -87.634984]
+}, {
+	"em": "example23@gmail.com",
+	"ad": "1516 North Wells Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa509f",
+	"coord": [41.90965500000001, -87.6350145]
+}, {
+	"em": "example24@gmail.com",
+	"ad": "1447 North Wells Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa50a0",
+	"coord": [41.9090333, -87.6342977]
+}, {
+	"em": "example25@gmail.com",
+	"ad": "1528 North Wells Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa50a1",
+	"coord": [41.9099647, -87.6350204]
+}, {
+	"em": "example26@gmail.com",
+	"ad": "1529 North Wells Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa50a2",
+	"coord": [41.909986, -87.634418]
+}, {
+	"em": "example27@gmail.com",
+	"ad": "1414 North Wells Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa50a3",
+	"coord": [41.908196, -87.634979]
+}, {
+	"em": "example28@gmail.com",
+	"ad": "1531 North Wells Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa50a4",
+	"coord": [41.91012240000001, -87.63449469999999]
+}, {
+	"em": "example29@gmail.com",
+	"ad": "1419 North Wells Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa50a5",
+	"coord": [41.9081954, -87.6343131]
+}, {
+	"em": "example30@gmail.com",
+	"ad": "1421 North Wells Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa50a6",
+	"coord": [41.9081865, -87.6343354]
+}, {
+	"em": "example31@gmail.com",
+	"ad": "1512 North LaSalle Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa50a7",
+	"coord": [41.90965869999999, -87.63358889999999]
+}, {
+	"em": "example32@gmail.com",
+	"ad": "1411 North Wells Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa50a8",
+	"coord": [41.9080531, -87.6343074]
+}, {
+	"em": "example33@gmail.com",
+	"ad": "1512 North LaSalle Street, Chicago",
+	"mongo": "56b425dbde88fc99d6aa50a9",
+	"coord": [41.909614, -87.63337659999999]
+}, {
+	"em": "example35@gmail.com",
+	"ad": "1547 North Wells Street, Chicago",
+	"mongo": "56b425dcde88fc99d6aa50ab",
+	"coord": [41.9105187, -87.63439389999999]
+}, {
+	"em": "example36@gmail.com",
+	"ad": "1401 North Wells Street, Chicago",
+	"mongo": "56b425dcde88fc99d6aa50ac",
+	"coord": [41.90776779999999, -87.63437770000002]
+}, {
+	"em": "example37@gmail.com",
+	"ad": "1549 North Wells Street, Chicago",
+	"mongo": "56b425dcde88fc99d6aa50ad",
+	"coord": [41.91059399999999, -87.634427]
+}, {
+	"em": "example38@gmail.com",
+	"ad": "1552 North Wells Street, Chicago",
+	"mongo": "56b425dcde88fc99d6aa50ae",
+	"coord": [41.910668, -87.6348783]
+}, {
+	"em": "example39@gmail.com",
+	"ad": "1551 North Wells Street, Chicago",
+	"mongo": "56b425dcde88fc99d6aa50af",
+	"coord": [41.91065109999999, -87.63438149999999]
+}, {
+	"em": "example41@gmail.com",
+	"ad": "1615 North Wells Street, Chicago",
+	"mongo": "56b425e4de88fc99d6aa50b0",
+	"coord": [41.9115937, -87.6344575]
+}, {
+	"em": "example42@gmail.com",
+	"ad": "1617 North Wells Street, Chicago",
+	"mongo": "56b425e4de88fc99d6aa50b1",
+	"coord": [41.91166, -87.63451649999999]
+}, {
+	"em": "example44@gmail.com",
+	"ad": "210 West North Avenue, Chicago",
+	"mongo": "56b425e4de88fc99d6aa50b3",
+	"coord": [41.9113313, -87.6349255]
+}, {
+	"em": "example46@gmail.com",
+	"ad": "210 West North Avenue, Chicago",
+	"mongo": "56b425e4de88fc99d6aa50b5",
+	"coord": [41.911332, -87.635227]
+}, {
+	"em": "example48@gmail.com",
+	"ad": "157 West North Avenue, Chicago",
+	"mongo": "56b425e4de88fc99d6aa50b7",
+	"coord": [41.9109494, -87.6339558]
+}, {
+	"em": "example49@gmail.com",
+	"ad": "230 West North Avenue, Chicago",
+	"mongo": "56b425e5de88fc99d6aa50b8",
+	"coord": [41.9113281, -87.6354748]
+}, {
+	"em": "example50@gmail.com",
+	"ad": "1551 North Wells Street, Chicago",
+	"mongo": "56b425e5de88fc99d6aa50b9",
+	"coord": [41.91065109999999, -87.63438149999999]
+}, {
+	"em": "example51@gmail.com",
+	"ad": "1560 North Wells Street, Chicago",
+	"mongo": "56b425e5de88fc99d6aa50ba",
+	"coord": [41.910796, -87.635126]
+}, {
+	"em": "example52@gmail.com",
+	"ad": "1552 North Wells Street, Chicago",
+	"mongo": "56b425e5de88fc99d6aa50bb",
+	"coord": [41.910668, -87.6348783]
+}, {
+	"em": "example53@gmail.com",
+	"ad": "1549 North Wells Street, Chicago",
+	"mongo": "56b425e5de88fc99d6aa50bc",
+	"coord": [41.91059399999999, -87.634427]
+}, {
+	"em": "example54@gmail.com",
+	"ad": "219 West North Avenue, Chicago",
+	"mongo": "56b425e5de88fc99d6aa50bd",
+	"coord": [41.91098179999999, -87.63557259999999]
+}, {
+	"em": "example55@gmail.com",
+	"ad": "1547 North Wells Street, Chicago",
+	"mongo": "56b425e5de88fc99d6aa50be",
+	"coord": [41.9105187, -87.63439389999999]
+}, {
+	"em": "example58@gmail.com",
+	"ad": "1531 North Wells Street, Chicago",
+	"mongo": "56b425e5de88fc99d6aa50c1",
+	"coord": [41.91012240000001, -87.63449469999999]
+}, {
+	"em": "example59@gmail.com",
+	"ad": "237 West North Avenue, Chicago",
+	"mongo": "56b425e5de88fc99d6aa50c2",
+	"coord": [41.910906, -87.63623899999999]
+}, {
+	"em": "example60@gmail.com",
+	"ad": "1528 North Wells Street, Chicago",
+	"mongo": "56b425e5de88fc99d6aa50c3",
+	"coord": [41.9099647, -87.6350204]
+}, {
+	"em": "example70@gmail.com",
+	"ad": "2364 North Lincoln Avenue, Chicago",
+	"mongo": "56b425eade88fc99d6aa50c4",
+	"coord": [41.92492780000001, -87.6483681]
+}, {
+	"em": "example72@gmail.com",
+	"ad": "2360 North Lincoln Avenue, Chicago",
+	"mongo": "56b425eade88fc99d6aa50c6",
+	"coord": [41.92485889999999, -87.64828910000001]
+}, {
+	"em": "example73@gmail.com",
+	"ad": "2404 North Lincoln Avenue, Chicago",
+	"mongo": "56b425eade88fc99d6aa50c7",
+	"coord": [41.925666, -87.6492896]
+}, {
+	"em": "example75@gmail.com",
+	"ad": "738 West Fullerton Avenue, Chicago",
+	"mongo": "56b425eade88fc99d6aa50c9",
+	"coord": [41.9256744, -87.64790579999999]
+}, {
+	"em": "example77@gmail.com",
+	"ad": "816 West Fullerton Avenue, Chicago",
+	"mongo": "56b425eade88fc99d6aa50cb",
+	"coord": [41.9255665, -87.649547]
+}, {
+	"em": "example78@gmail.com",
+	"ad": "2412 North Lincoln Avenue, Chicago",
+	"mongo": "56b425eade88fc99d6aa50cc",
+	"coord": [41.9257572, -87.6494641]
+}, {
+	"em": "example79@gmail.com",
+	"ad": "734 West Fullerton Avenue, Chicago",
+	"mongo": "56b425eade88fc99d6aa50cd",
+	"coord": [41.9256609, -87.6477815]
+}, {
+	"em": "example80@gmail.com",
+	"ad": "2423 North Lincoln Avenue, Chicago",
+	"mongo": "56b425eade88fc99d6aa50ce",
+	"coord": [41.9261288, -87.6494022]
+}, {
+	"em": "example81@gmail.com",
+	"ad": "2424 North Lincoln Avenue, Chicago",
+	"mongo": "56b425eade88fc99d6aa50cf",
+	"coord": [41.9259783, -87.6497572]
+}, {
+	"em": "example82@gmail.com",
+	"ad": "2429 North Lincoln Avenue, Chicago",
+	"mongo": "56b425ebde88fc99d6aa50d0",
+	"coord": [41.92629039999999, -87.6495277]
+}, {
+	"em": "example84@gmail.com",
+	"ad": "2432 North Lincoln Avenue, Chicago",
+	"mongo": "56b425ebde88fc99d6aa50d2",
+	"coord": [41.92611679999999, -87.64999619999999]
+}, {
+	"em": "example85@gmail.com",
+	"ad": "2430 North Lincoln Avenue, Chicago",
+	"mongo": "56b425ebde88fc99d6aa50d3",
+	"coord": [41.9261048, -87.65006489999999]
+}, {
+	"em": "example86@gmail.com",
+	"ad": "2436 North Lincoln Avenue, Chicago",
+	"mongo": "56b425ebde88fc99d6aa50d4",
+	"coord": [41.9261896, -87.6501042]
+}, {
+	"em": "example88@gmail.com",
+	"ad": "2441 North Lincoln Avenue, Chicago",
+	"mongo": "56b425ebde88fc99d6aa50d6",
+	"coord": [41.92647999999999, -87.64995429999999]
+}, {
+	"em": "example89@gmail.com",
+	"ad": "2447 North Halsted Street, Chicago",
+	"mongo": "56b425ebde88fc99d6aa50d7",
+	"coord": [41.92684579999999, -87.6486573]
+}]
