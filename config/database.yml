@@ -25,7 +25,7 @@ default: &default
 development:
   <<: *default
   database: petedata
-  username: <%= ENV['MY_USERNAME'] %>
+  username:  <%= ENV['MY_USERNAME'] %>
   password: <%= ENV['RDS_PASSWORD'] %>
   host: <%= ENV['API_ENDPOINT'] %>
   postgis_extension: postgis   

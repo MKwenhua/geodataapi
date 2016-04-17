@@ -1,23 +1,17 @@
 class StoresController < ApplicationController
 	before_action :set_store, only: [:show, :update, :destroy]
-#
-  # GET /rails
-  # GET /rails.json
+
   def index
    # @stores = Store.all
 
     #render json:  @stores
   end
-  def getbizzle
+  def getstores
   	locFactory = RGeo::ActiveRecord::SpatialFactoryStore.instance.factory(:geo_type => 'point')
   	point =  locFactory.point(params[:lng], params[:lat])
-  	@stuff = Store.where('st_dwithin(lonlat,?,?)',point, 800)
-  	render json:  @stuff
-  #	if request.xhr?
-   #     		 render :json => {
-    #                       :setRedis =>  @stuff 
-     #                  }
-      #  end  
+  	@nearby = Store.where('st_dwithin(lonlat,?,?)',point, 800)
+  	render json:  @nearby
+
   end
   # GET /rails/1
   # GET /rails/1.json

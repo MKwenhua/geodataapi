@@ -157,6 +157,10 @@ DEPENDENCIES
   redis (~> 3.2)
   responders
   rest-client (~> 1.8)
+  rgeo-activerecord
   sdoc (~> 0.4.0)
   spring
   web-console (~> 2.0)
+
+BUNDLED WITH
+   1.11.2

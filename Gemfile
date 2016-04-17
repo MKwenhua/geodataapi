@@ -9,11 +9,10 @@ gem 'pg'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'rails-api'
-# See https://github.com/sstephenson/execjs#readme for more supported runtimes
-# gem 'therubyracer', platforms: :ruby
+
 gem 'geocoder'
 gem 'bcrypt'
-
+gem 'rgeo-activerecord'
 gem 'redis', '~>3.2'
 gem 'rest-client', '~> 1.8'
 gem 'responders'
